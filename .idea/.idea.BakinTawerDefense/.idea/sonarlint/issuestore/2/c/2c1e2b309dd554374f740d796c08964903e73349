@@ -1,0 +1,5 @@
+
+Rcsharpsquid:S3903".Move 'SetCameraMatrix' into a named namespace.(ì¾‰Ë8¨§¦æ 0
+acsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(€ùÿ©
+ocsharpsquid:S1450"RRemove the field 'mat' and declare it as a local variable in the relevant methods.(à•¦•

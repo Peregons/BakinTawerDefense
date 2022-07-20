@@ -4729,8 +4729,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5424351d825d3974eacff4e59b723a1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _spawnFrequency: 0.5
-  _unitCount: 50
+  _spawnFrequency: 2
+  _unitCount: 100
   _unitTemplate: {fileID: 392734590}
   _unitTargets:
   - {fileID: 1655394322}
